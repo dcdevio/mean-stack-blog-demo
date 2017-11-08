@@ -1,1 +1,2 @@
-# mean-stack-blog-demo
+MEAN stack blog demo
+commit from local repo
